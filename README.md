@@ -1,4 +1,4 @@
-# dollarp-Gesture-Recognizer
+# $P Point Cloud Gesture Recognizer
 
 A command line Recognition Engine of the NUI pipeline using $P algorithm.
 Implemented using JavaScript (Node.js).
